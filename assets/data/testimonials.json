@@ -1,0 +1,17 @@
+[
+  {
+    "client_name": "Carlos Méndez",
+    "detail": "Excelente atención y resultados. Recomiendo Ecoltura Barbería por su profesionalismo y productos naturales.",
+    "rate": 5
+  },
+  {
+    "client_name": "Laura González",
+    "detail": "Corte impecable y ambiente muy agradable. Además valoré su compromiso con el medio ambiente.",
+    "rate": 4
+  },
+  {
+    "client_name": "Andrés Ruiz",
+    "detail": "Servicio rápido y muy detallista. La barba quedó perfecta y me explicaron cómo mantenerla en casa.",
+    "rate": 5
+  }
+]

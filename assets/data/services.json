@@ -1,0 +1,74 @@
+[
+  {
+    "idServicio": 1,
+    "imagen": "Publicidad-para-barberia.jpg",
+    "nombreServicio": "Corte Clásico",
+    "precio": 25000,
+    "detalle": "Corte tradicional para caballero.",
+    "duracion": "30"
+  },
+  {
+    "idServicio": 2,
+    "imagen": "Publicidad-para-barberia.jpg",
+    "nombreServicio": "Corte Degradado",
+    "precio": 28000,
+    "detalle": "Corte moderno con degradado en los laterales.",
+    "duracion": "35"
+  },
+  {
+    "idServicio": 3,
+    "imagen": "Publicidad-para-barberia.jpg",
+    "nombreServicio": "Corte Infantil",
+    "precio": 20000,
+    "detalle": "Corte especial para niños.",
+    "duracion": "25"
+  },
+  {
+    "idServicio": 4,
+    "imagen": "Publicidad-para-barberia.jpg",
+    "nombreServicio": "Afeitado Clásico",
+    "precio": 22000,
+    "detalle": "Afeitado con navaja y toalla caliente.",
+    "duracion": "20"
+  },
+  {
+    "idServicio": 5,
+    "imagen": "Publicidad-para-barberia.jpg",
+    "nombreServicio": "Perfilado de Barba",
+    "precio": 18000,
+    "detalle": "Definición y arreglo de barba.",
+    "duracion": "15"
+  },
+  {
+    "idServicio": 6,
+    "imagen": "Publicidad-para-barberia.jpg",
+    "nombreServicio": "Coloración de Cabello",
+    "precio": 35000,
+    "detalle": "Aplicación de color profesional.",
+    "duracion": "40"
+  },
+  {
+    "idServicio": 7,
+    "imagen": "Publicidad-para-barberia.jpg",
+    "nombreServicio": "Tratamiento Capilar",
+    "precio": 30000,
+    "detalle": "Hidratación y nutrición del cabello.",
+    "duracion": "30"
+  },
+  {
+    "idServicio": 8,
+    "imagen": "Publicidad-para-barberia.jpg",
+    "nombreServicio": "Peinado Especial",
+    "precio": 15000,
+    "detalle": "Peinados para eventos y ocasiones especiales.",
+    "duracion": "20"
+  },
+  {
+    "idServicio": 9,
+    "imagen": "Publicidad-para-barberia.jpg",
+    "nombreServicio": "Cejas y Facial",
+    "precio": 12000,
+    "detalle": "Diseño de cejas y limpieza facial.",
+    "duracion": "15"
+  }
+]

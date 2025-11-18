@@ -1,0 +1,20 @@
+[
+  {
+    "idEmpleado": 1,
+    "nombre": "Tatiana Esposito",
+    "detalle": "CEO",
+    "imagen": "Publicidad-para-barberia.jpg"
+  },
+  {
+    "idEmpleado": 2,
+    "nombre": "Esteban Vergara",
+    "detalle": "CTO",
+    "imagen": "Publicidad-para-barberia.jpg"
+  },
+  {
+    "idEmpleado": 3,
+    "nombre": "Susana Rivera",
+    "detalle": "Product Manager",
+    "imagen": "Publicidad-para-barberia.jpg"
+  }
+]

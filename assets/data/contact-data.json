@@ -1,0 +1,20 @@
+{
+  "address": "Av. Principal 123, Ciudad, País",
+  "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3975.7759410294298!2d-75.68823362493767!3d4.808491795166958!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e3887d56ed9c0db%3A0x5fb992b0c5593c8d!2sEcoltura%20Barber%C3%ADa!5e0!3m2!1ses!2sco!4v1763396591426!5m2!1ses!2sco",
+  "phone": "+1 234 567 890",
+  "email": "contacto@ejemplo.com",
+  "social": [
+    {
+      "platform": "Facebook",
+      "url": "https://facebook.com/ejemplo"
+    },
+    {
+      "platform": "Twitter",
+      "url": "https://twitter.com/ejemplo"
+    },
+    {
+      "platform": "Instagram",
+      "url": "https://instagram.com/ejemplo"
+    }
+  ]
+}
